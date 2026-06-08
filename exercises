@@ -1,0 +1,90 @@
+#guest
+'''name="kavya"
+a=str(input("enter your name"))
+if a==name:
+    print("welcome kavya")
+else:
+    print("welcome guest")'''
+#vowels
+'''a=str(input("letter"))
+if a in "aeiou":
+    print("it is vowel")
+else:
+    print("consonant")'''
+
+'''a=["a","e","i","o","u"]
+b=input("enter the vowel").lower()
+if b in a:
+    print("it is vowel")
+else:
+    print("it is consonant")'''
+'''a=["kavya","harika","priya","pooja","tanya"]
+name=input("enter the name").lower()
+if name in a: 
+    print("welcome",name)
+else:
+    print("welcome guest")'''
+
+  #social media login    
+'''a=str(input("enter the username"))
+b=str(input("enter the password"))
+if a=="kavya":
+    if b=="123@k":
+        print("login sucessful")
+    else:
+         print("incorrect password")
+        
+else:
+    print("invalid credentials")'''
+'''a=str(input("enter the username"))
+b=str(input("enter the password"))
+if a=="kavya" and b=="123@k":
+        print("login sucessful")
+
+else:
+    print("invalid credentials")'''
+ #bakery
+'''a=str(input("enter the cake name"))
+if a=="Red velvet":
+    print("1200")
+elif a=="Choco almond":
+    print("1000")
+elif a=="Butterscotch":
+    print("800")
+elif a=="Chocolate":
+    print("600")
+else:
+    print("cake is not available")'''
+ #pizza
+'''pizza=int(input("enter the price"))
+if pizza==800:
+    print("crispy chicken pizza")
+elif pizza==600:
+    print("bbq pizza")
+elif pizza==400:
+    print("paneer pizza")
+elif pizza==100:
+    print("coke")'''
+
+'''a=int(input("enter the age"))
+b=int(input("enter the marks"))
+c=int(input("enter the attendence"))
+if a>=18:
+    print("eligible for vote")
+if b>=80:
+    print("eligible for write exam")
+if c>=90:
+    print("eligible for scholorship")'''
+ #student profile
+'''id=int(input("enter the id"))
+name=input("name")
+college=int(input("enter the clg name"))
+mailid=input("enter the mailid")
+mobileno=int(input("enter the mobileno"))
+branch=int(input("enter the branch"))
+print("student profile..........")
+print("student id is:",id)
+print("student name is:",name)
+print("student cld name is:",college)
+print("student mobileno is:",mobileno)
+print("student branch is:",branch)'''      
