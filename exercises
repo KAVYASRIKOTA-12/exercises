@@ -88,3 +88,23 @@ print("student name is:",name)
 print("student cld name is:",college)
 print("student mobileno is:",mobileno)
 print("student branch is:",branch)'''      
+#voting    
+'''a=int(input("value"))
+if a>=18:
+    print("eligible for vote")
+    if a<18:
+        print("not eligible for vote")
+else:
+    print("not eligible")'''
+#even or odd
+'''a=int(input("enter the number"))
+if a%2==0:
+    print("it is even")
+else:
+    print("it is odd")'''
+#leap year
+'''a=int(input("year"))
+if a%4==0:
+    print("leap year")
+else:
+    print("non leap year")'''
